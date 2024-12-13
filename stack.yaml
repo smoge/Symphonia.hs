@@ -1,0 +1,21 @@
+
+resolver: lts-23.0
+
+
+packages:
+- orfeo
+- ritornello
+- packages/euterpea-oxum  
+
+
+
+extra-deps:
+- vendor/hosc
+- vendor/hsc3
+- vendor/jack
+- vendor/reactive-jack
+- vendor/vivid-0.5.2.1
+- vendor/PortMidi
+
+notify-if-nix-on-path: false
+

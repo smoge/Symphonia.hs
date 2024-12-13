@@ -1,0 +1,12 @@
+[submodule "packages/euterpea-oxum"]
+	path = packages/euterpea-oxum
+	url = https://github.com/smoge/Euterpea-Oxum.git
+[submodule "vendor/hosc"]
+	path = vendor/hosc
+	url = https://gitlab.com/rd--/hosc
+[submodule "vendor/hsc3"]
+	path = vendor/hsc3
+	url = https://gitlab.com/rd--/hsc3
+[submodule "vendor/PortMidi"]
+	path = vendor/PortMidi
+	url = https://github.com/ninegua/PortMidi

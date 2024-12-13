@@ -1,0 +1,12 @@
+- group: { name: future, enabled: true }
+- group: { name: extra, enabled: true }
+- group: { name: generalise, enabled: true }
+
+- arguments: [ --cross ]
+
+- extensions:
+  - default: true
+
+- ignore: { name: Avoid lambda }
+- ignore: { name: Unused LANGUAGE pragma }
+- ignore: { name: Use camelCase }
